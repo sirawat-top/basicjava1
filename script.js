@@ -1,3 +1,2 @@
-function getHistory(){
-    return document.getElementById("")
-}
+var newText= 'new Text'
+document.getElementById('ok').innerHTML = newText
